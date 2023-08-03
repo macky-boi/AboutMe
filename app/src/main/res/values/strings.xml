@@ -2,4 +2,10 @@
     <string name="app_name">My Application</string>
     <string name="user_name">Judo</string>
     <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Judo!
+        \n\nMy owner says my cowboy name is po.
+        \n\nI usually eat chicken and broth with rice.
+        \n\nIm an active dog, i always go out.
+        \n\nWhen my day is over, i sleep at my ho room at night.
+    </string>
 </resources>
